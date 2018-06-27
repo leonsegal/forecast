@@ -1,0 +1,11 @@
+{
+    "name": "leonsegal/forecast",
+    "description": "Get weather forecast for a given ip",
+    "authors": [
+        {
+            "name": "leon",
+            "email": "leonsegal1@gmail.com"
+        }
+    ],
+    "require": {}
+}
